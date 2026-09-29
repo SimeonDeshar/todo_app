@@ -1,0 +1,17 @@
+﻿# Virtual environment
+.venv/
+
+# NiceGUI per-user storage
+.nicegui/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
